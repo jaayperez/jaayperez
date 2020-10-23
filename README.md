@@ -1,5 +1,6 @@
 <h2>Hi there 👋</h2>
 <p>
+<img src=https://img.shields.io/github/license/jaayperez/jaayperez?style=flat&label=License />
 <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
 <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
 </p>
