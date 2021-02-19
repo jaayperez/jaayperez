@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
 </p>
 
-<p>Self-taught programmer with 4+ years of web development experience. I enjoy building products for mobile app and desktop users. Using highest standards and best practices in web design, user experience, speed and performance. Results-oriented and solution-driven team player adept at contributing in highly collaborative work environments. Proven experience developing eCommerce websites working with multiple APIs, third-party app integrations, and databases.
+<p>Self-taught programmer with 5 years of web development experience. I enjoy building products for mobile app and desktop users. Using highest standards and best practices in web design, user experience, speed and performance. Results-oriented and solution-driven team player adept at contributing in highly collaborative work environments. Proven experience developing eCommerce websites working with multiple APIs, third-party app integrations, and databases.
 I design and develop websites and web applications with popular programming languages, tools, and software technology.</p>
 
 <h2>Stats.</h2>
