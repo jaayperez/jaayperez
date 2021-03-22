@@ -1,4 +1,4 @@
-<h2>Hi.</h2>
+<h2>Hello.</h2>
 <p>
 <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
 <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
