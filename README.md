@@ -1,15 +1,15 @@
-<h2>Hello.</h2>
-<p>
-<img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
+<!-- justin -->
+<h2>Hello</h2>
 <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
+<img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
+<p>Programmer with 5+ years of development experience. Proven experience after working with databases, e-commerce, and APIs. Solution-driven, results-oriented, and adept at contributing to highly collaborative teams. Designed and built with popular programming languages and modern software technology.
 </p>
-
-<p>Programmer with 5 years of development experience. Proven experience after working with databases, e-commerce, and APIs. Solution-driven, results-oriented, and adept at contributing to highly collaborative teams. Designed and built with popular programming languages and modern software technology.</p>
+<!-- ./justin -->
 
 <!-- follow -->
 <h2>Find me on:</h2>
 <p>
-  	<a href="https://github.com/jaayperez" target="_blank"><img src="https://img.shields.io/github/followers/jaayperez.svg?label=GitHub&style=social" alt="GitHub"></a>
+  	<a href="https://github.com/jaayperez" target="_blank"><img src="https://img.shields.io/github/followers/jaayperez.svg-black?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://instagram.com/perezzzzjustin"><img src="https://img.shields.io/badge/-jaayprez?label=Instagram&style=social&logo=instagram&logoColor=purple" alt="Instagram"></a>
 		<a href="https://www.linkedin.com/in/jjustinperez"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://github.com/sponsors/jaayperez"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>
@@ -17,6 +17,7 @@
 </p>
 <!-- /.follow -->
 
+<!-- stack -->
 <h2>Languages and tools:</h2>
 <p>
   <!-- html5 -->
@@ -48,13 +49,14 @@
 </p>
 <!-- ./stack -->
 
-<h2>Profile stats:</h2>
-<a href="https://github.com/jaayperez">
+<h2>🏆 My profile stats:</h2>
   <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaayperez&" alt="jaayperez" /><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaayperez&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jaayperez&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </p>                                                                                                                             
 </a>
+<!-- ./stats -->
 
 <!--
 **jaayperez/jaayperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
