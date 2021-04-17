@@ -1,7 +1,9 @@
 <!-- justin -->
 <h2>Hello</h2>
+<div>
 <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
 <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
+	</div>
 <p>Programmer with 5+ years of development experience. Proven experience after working with databases, e-commerce, and APIs. Solution-driven, results-oriented, and adept at contributing to highly collaborative teams. Designed and built with popular programming languages and modern software technology.
 </p>
 <!-- ./justin -->
