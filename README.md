@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=00c8ff">
   <!-- node.js -->
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=3C873A">
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/-PHP-black?style=flat&logo=php&logoColor=8993be">
   <!-- SQL -->
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=F29111">
   <!-- PWA -->
