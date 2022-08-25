@@ -1,5 +1,5 @@
 <!-- J -->
-<h2>Hi 😏</h2>
+<h2>Hello, World</h2>
 <div>
   <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
   <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
@@ -9,7 +9,7 @@
 
 
 <!-- ./STAT -->
-<h2>Stats</h2>
+<h2>The Stats</h2>
   <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaayperez&" alt="jaayperez" /><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaayperez&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -19,7 +19,7 @@
 <!-- ./STATS -->
 
 <!-- SOCIAL -->
-<h2>Find me on</h2>
+<h2>Find Me On</h2>
 <p>
 <a href="https://github.com/jaayperez" target="_blank">
   <img src="https://img.shields.io/github/followers/jaayperez.svg-black?label=GitHub&style=social" alt="J's GitHub">
