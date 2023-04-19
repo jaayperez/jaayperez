@@ -4,7 +4,7 @@
   <img src=https://img.shields.io/github/followers/jaayperez?label=Follow />
   <img src=https://komarev.com/ghpvc/?username=jaayperez alt=jaayperez/>
 </div>
-<p>Solution-driven, results-oriented, and self-taught web developer with 6+ years of experience. A proven experience developing websites working with various APIs, analytic tracking, third-party apps, and e-commerce platforms, and well versed in contributing to highly collaborative teams. Designed and built websites, online stores, and web apps using popular programming languages and tools.</p>
+<p>Solution-driven, results-oriented, and self-taught web developer with 7+ years of experience. A proven experience developing websites working with various APIs, analytic tracking, third-party apps, and e-commerce platforms, and well versed in contributing to highly collaborative teams. Designed and built websites, online stores, and web apps using popular programming languages and tools.</p>
 <!-- ./J -->
 
 
